@@ -1,0 +1,1 @@
+***NOTE: This repo has been copied from a previous personal codebase named nixFlix-client. All commit history can be see in that repo, but the repo was corrupted/ruined by merge conflicts and parcel package manager.***
